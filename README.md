@@ -1,10 +1,10 @@
 # Group-13
 Group work with Mayowa & Taniya
 
-Manager/release - Mayowa Jide-Ogungbe
+Manager/release - Taniya Chhimpa
 Coordinator - Taniya Chhimpa
 Developer - Mayowa Jide-Ogungbe
-QA tester - Taniya Chhimpa
+QA tester - Mayowa Jide-Ogungbe
 
 
 Game Instructions and Rules:
